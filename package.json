@@ -8,6 +8,7 @@
   "dependencies": {
     "@heroicons/react": "^1.0.6",
     "@reduxjs/toolkit": "^1.8.0",
+    "eslint": "^8.11.0",
     "firebase": "^9.6.8",
     "next": "latest",
     "react": "^17.0.2",
