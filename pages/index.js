@@ -10,7 +10,7 @@ import styles from '../styles/Scroll.module.css'
 
 import Vedio from '../components/Vedio'
 
-export default function Home() {
+ function Home() {
   return (
     <div className={styles.container}>
       <Head>
@@ -33,3 +33,5 @@ export default function Home() {
     </div>
   )
 }
+
+export default Home;

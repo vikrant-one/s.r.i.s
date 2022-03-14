@@ -85,7 +85,7 @@ function Join() {
         ]);
 
 
-  return <div  classNameName=" mt-[-100px] mb-[-100px]  xl:mt-10  xl:mb-8   overflow-hidden ">
+  return <div  className=" mt-[-100px] mb-[-100px]  xl:mt-10  xl:mb-8   overflow-hidden ">
       <div className="flex xl:ml-20   items-center justify-center min-h-screen">
     <div className="w-full px-6 py-16  xl:w-2/5 ">
         <h2 className="mb-12 text-4xl antialiased text-center font-bold  text-gray-800">Join Us Today</h2>
